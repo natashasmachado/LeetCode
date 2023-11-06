@@ -8,6 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		7E1489D32ADE370900276EAD /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E1489D22ADE370900276EAD /* main.swift */; };
+		7E3DBBB12AF80498006D4EC6 /* Repeated-String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E3DBBB02AF80498006D4EC6 /* Repeated-String.swift */; };
+		7E3DBBB32AF806C7006D4EC6 /* Stickers-word.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E3DBBB22AF806C7006D4EC6 /* Stickers-word.swift */; };
+		7E3DBBB52AF80CF6006D4EC6 /* Frequent-words.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E3DBBB42AF80CF6006D4EC6 /* Frequent-words.swift */; };
+		7E3DBBB72AF80ECE006D4EC6 /* Subsets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E3DBBB62AF80ECE006D4EC6 /* Subsets.swift */; };
 		7E50C2712AE61ADD0081AEBE /* ShortestUnsortedSubarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E50C2702AE61ADD0081AEBE /* ShortestUnsortedSubarray.swift */; };
 		7E50C2732AE61E1F0081AEBE /* DeleteOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E50C2722AE61E1F0081AEBE /* DeleteOperation.swift */; };
 		7E50C2752AE622640081AEBE /* ValidSquare.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E50C2742AE622630081AEBE /* ValidSquare.swift */; };
@@ -16,6 +20,7 @@
 		7E50C27B2AE635F30081AEBE /* ClosestElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E50C27A2AE635F30081AEBE /* ClosestElement.swift */; };
 		7E50C27D2AE636750081AEBE /* SumPairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E50C27C2AE636750081AEBE /* SumPairs.swift */; };
 		7E50C27F2AE636DD0081AEBE /* ParenthesisString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E50C27E2AE636DD0081AEBE /* ParenthesisString.swift */; };
+		7E50C2812AF01C2B0081AEBE /* RedundantConnection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E50C2802AF01C2B0081AEBE /* RedundantConnection.swift */; };
 		7E9D73E12AE4B3F100B1C9B0 /* PartitionLabels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E9D73E02AE4B3F100B1C9B0 /* PartitionLabels.swift */; };
 		7E9D73E32AE4B44D00B1C9B0 /* TaskScheduler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E9D73E22AE4B44D00B1C9B0 /* TaskScheduler.swift */; };
 		7E9D73E52AE4B5DF00B1C9B0 /* GasStation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E9D73E42AE4B5DF00B1C9B0 /* GasStation.swift */; };
@@ -39,6 +44,10 @@
 /* Begin PBXFileReference section */
 		7E1489CF2ADE370900276EAD /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		7E1489D22ADE370900276EAD /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		7E3DBBB02AF80498006D4EC6 /* Repeated-String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Repeated-String.swift"; sourceTree = "<group>"; };
+		7E3DBBB22AF806C7006D4EC6 /* Stickers-word.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Stickers-word.swift"; sourceTree = "<group>"; };
+		7E3DBBB42AF80CF6006D4EC6 /* Frequent-words.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Frequent-words.swift"; sourceTree = "<group>"; };
+		7E3DBBB62AF80ECE006D4EC6 /* Subsets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Subsets.swift; sourceTree = "<group>"; };
 		7E50C2702AE61ADD0081AEBE /* ShortestUnsortedSubarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShortestUnsortedSubarray.swift; sourceTree = "<group>"; };
 		7E50C2722AE61E1F0081AEBE /* DeleteOperation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeleteOperation.swift; sourceTree = "<group>"; };
 		7E50C2742AE622630081AEBE /* ValidSquare.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidSquare.swift; sourceTree = "<group>"; };
@@ -47,6 +56,7 @@
 		7E50C27A2AE635F30081AEBE /* ClosestElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClosestElement.swift; sourceTree = "<group>"; };
 		7E50C27C2AE636750081AEBE /* SumPairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumPairs.swift; sourceTree = "<group>"; };
 		7E50C27E2AE636DD0081AEBE /* ParenthesisString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParenthesisString.swift; sourceTree = "<group>"; };
+		7E50C2802AF01C2B0081AEBE /* RedundantConnection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RedundantConnection.swift; sourceTree = "<group>"; };
 		7E9D73E02AE4B3F100B1C9B0 /* PartitionLabels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartitionLabels.swift; sourceTree = "<group>"; };
 		7E9D73E22AE4B44D00B1C9B0 /* TaskScheduler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskScheduler.swift; sourceTree = "<group>"; };
 		7E9D73E42AE4B5DF00B1C9B0 /* GasStation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GasStation.swift; sourceTree = "<group>"; };
@@ -100,6 +110,11 @@
 				7E50C27A2AE635F30081AEBE /* ClosestElement.swift */,
 				7E50C27C2AE636750081AEBE /* SumPairs.swift */,
 				7E50C27E2AE636DD0081AEBE /* ParenthesisString.swift */,
+				7E50C2802AF01C2B0081AEBE /* RedundantConnection.swift */,
+				7E3DBBB02AF80498006D4EC6 /* Repeated-String.swift */,
+				7E3DBBB22AF806C7006D4EC6 /* Stickers-word.swift */,
+				7E3DBBB42AF80CF6006D4EC6 /* Frequent-words.swift */,
+				7E3DBBB62AF80ECE006D4EC6 /* Subsets.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -162,15 +177,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7E3DBBB52AF80CF6006D4EC6 /* Frequent-words.swift in Sources */,
+				7E3DBBB72AF80ECE006D4EC6 /* Subsets.swift in Sources */,
 				7E9D73EB2AE4B81500B1C9B0 /* MaximumAverageSubarray.swift in Sources */,
 				7E50C27B2AE635F30081AEBE /* ClosestElement.swift in Sources */,
 				7E50C2792AE6254D0081AEBE /* SolveEquation.swift in Sources */,
 				7E50C27D2AE636750081AEBE /* SumPairs.swift in Sources */,
 				7E9D73E52AE4B5DF00B1C9B0 /* GasStation.swift in Sources */,
+				7E3DBBB32AF806C7006D4EC6 /* Stickers-word.swift in Sources */,
 				7E50C2712AE61ADD0081AEBE /* ShortestUnsortedSubarray.swift in Sources */,
 				7E1489D32ADE370900276EAD /* main.swift in Sources */,
 				7E50C27F2AE636DD0081AEBE /* ParenthesisString.swift in Sources */,
 				7E50C2732AE61E1F0081AEBE /* DeleteOperation.swift in Sources */,
+				7E3DBBB12AF80498006D4EC6 /* Repeated-String.swift in Sources */,
+				7E50C2812AF01C2B0081AEBE /* RedundantConnection.swift in Sources */,
 				7E9D73E92AE4B6E800B1C9B0 /* DesignCircularQueue.swift in Sources */,
 				7E9D73E72AE4B62700B1C9B0 /* TwoCityScheduling.swift in Sources */,
 				7E50C2752AE622640081AEBE /* ValidSquare.swift in Sources */,
